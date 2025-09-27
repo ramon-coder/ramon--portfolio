@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ramon--portfolio/static/css/main.b20bec11.css",
+    "main.js": "/ramon--portfolio/static/js/main.c5919086.js",
+    "static/js/787.9477c408.chunk.js": "/ramon--portfolio/static/js/787.9477c408.chunk.js",
+    "index.html": "/ramon--portfolio/index.html",
+    "main.b20bec11.css.map": "/ramon--portfolio/static/css/main.b20bec11.css.map",
+    "main.c5919086.js.map": "/ramon--portfolio/static/js/main.c5919086.js.map",
+    "787.9477c408.chunk.js.map": "/ramon--portfolio/static/js/787.9477c408.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20bec11.css",
+    "static/js/main.c5919086.js"
+  ]
+}
