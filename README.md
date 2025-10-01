@@ -1,25 +1,37 @@
-Desarrollador Front-End Junior apasionado con sólidos conocimientos en React, JavaScript y tecnologías web modernas. Comprometido con el aprendizaje continuo y la creación de experiencias digitales impactantes. Busco oportunidades para contribuir en proyectos innovadores mientras perfecciono mis habilidades técnicas
+👨‍💻 Sobre Mí
+Soy un Desarrollador Front-End Junior apasionado por la tecnología y el diseño de experiencias digitales memorables. Tengo sólidos conocimientos en React, JavaScript (ES6+) y tecnologías web modernas, y estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades técnicas.
 
-Como desarrollador junior altamente motivado, combino creatividad y habilidades técnicas para construir interfaces de usuario intuitivas y responsivas. Mi enfoque meticuloso y pasión por el código limpio me permiten entregar soluciones que superan las expectativas. Estoy listo para aportar energía fresca y perspectivas innovadoras a su equipo.
+Me motiva crear interfaces intuitivas, responsivas y accesibles, combinando creatividad con precisión técnica. Mi enfoque en el código limpio, la colaboración efectiva y la mentalidad de crecimiento me permite aportar soluciones que superan expectativas. Estoy listo para sumar energía fresca e ideas innovadoras a equipos que valoren la excelencia y la evolución constante.
 
-💡 Stack Tecnológico Principal
+💡 Stack Tecnológico
+Categoría	Tecnologías / Herramientas
+Front-End	React, JavaScript (ES6+), HTML5, CSS3
+Herramientas	Git, npm, Webpack, VS Code
+Metodologías	Agile, Scrum, Responsive Design
+En Aprendizaje	Node.js, TypeScript, Testing
+🚀 Competencias Técnicas
+Desarrollo de componentes React reutilizables y escalables
 
-Front-End: React, JavaScript (ES6+), HTML5, CSS3
-Herramientas: Git, npm, Webpack, VS Code
-Metodologías: Agile, Scrum, Responsive Design
-En Aprendizaje: Node.js, TypeScript, Testing
-🚀 Competencias Clave
-Desarrollo de componentes React reutilizables
-Implementación de diseños responsive
+Implementación de diseños responsive adaptados a múltiples dispositivos
+
+Integración de buenas prácticas de accesibilidad y rendimiento
+
 🤝 Habilidades Interpersonales
+Comunicación clara: Explico conceptos técnicos de forma accesible
 
-Comunicación Clara: Explico conceptos técnicos de forma accesible
-Aprendizaje Rápido: Adaptabilidad demostrada en nuevos entornos
-Trabajo en Equipo: Experiencia colaborando en proyectos grupales
-Mentalidad de Crecimiento: Abierto a feedback y mejora continua
+Aprendizaje rápido: Me adapto con facilidad a nuevos entornos y tecnologías
 
-"Estoy emocionado por la posibilidad de comenzar mi carrera profesional 
-en un entorno desafiante donde pueda aplicar mis habilidades y continuar 
-creciendo. ¿Le interesa conocer más sobre cómo puedo aportar valor a su equipo?"
+Trabajo en equipo: Experiencia colaborando en proyectos grupales
 
-📧 guzman.ing.ramon@gmail.com | 📱 (+58) 412-204-0343
+Mentalidad de crecimiento: Abierto al feedback y enfocado en la mejora continua
+
+“Estoy entusiasmado por iniciar mi carrera profesional en un entorno desafiante donde pueda aplicar mis conocimientos, aprender de grandes profesionales y aportar valor real a los proyectos. ¿Te gustaría saber cómo puedo contribuir a tu equipo?”
+
+📬 Contacto
+📧 guzman.ing.ramon@gmail.com
+
+📱 (+58) 412-204-0343
+
+🔗 LinkedIn
+
+🌐 Portafolio Web
