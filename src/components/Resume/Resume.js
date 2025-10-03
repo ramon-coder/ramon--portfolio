@@ -72,17 +72,17 @@ export default class Resume extends Component {
           <div className="bars">
             <ol className="skills">
               <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/logotipo-de-adobe-photoshop.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/logotipo-de-adobe-photoshop.png'} />
               <li><span className="bar-expand illustrator" /><em>Github</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/github-mark.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/github-mark.png'} />
               <li><span className="bar-expand wordpress" /><em>React</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/icons8-react-90.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/icons8-react-90.png'} />
               <li><span className="bar-expand css" /><em>CSS</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/icons8-css-100.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/icons8-css-100.png'} />
               <li><span className="bar-expand html5" /><em>HTML5</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/icons8-html5-100.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/icons8-html5-100.png'} />
               <li><span className="bar-expand jquery" /><em>jQuery</em></li>
-              <img className='Photoshop' alt="photoshop" src="/images/skills/icons8-jquery-100.png" />
+              <img className='Photoshop' alt="photoshop" src={process.env.PUBLIC_URL + '/images/skills/icons8-jquery-100.png'} />
             </ol>
           </div>
         </div>
