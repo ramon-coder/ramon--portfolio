@@ -55,7 +55,7 @@ const projects = [
     id: 6,
     title: 'Simple Calculator',
     category: 'Frontend',
-    image: 'images/portfolio/girl.jpg',
+    image: 'images/portfolio/calculadora.png',
     modalImg: 'images/portfolio/modals/m-girl.jpg',
     description: 'A simple calculator application built with HTML, CSS, and JavaScript. Performs basic arithmetic operations with a clean interface.',
     tags: 'HTML, CSS, JavaScript',
