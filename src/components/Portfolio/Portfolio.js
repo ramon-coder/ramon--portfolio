@@ -3,56 +3,6 @@ import React, { Component } from 'react'
 const projects = [
   {
     id: 1,
-    title: 'Task Manager CLI',
-    category: 'Node.js',
-    image: 'images/portfolio/console.jpg',
-    modalImg: 'images/portfolio/modals/m-console.jpg',
-    description: 'A command-line task manager built with Node.js and Commander.js. Features include adding tasks with priority, category, due date, filtering by category/priority, and search functionality.',
-    tags: 'CLI, Node.js, JavaScript',
-    github: 'https://github.com/ramon-coder/task-manager-cli'
-  },
-  {
-    id: 2,
-    title: 'Subscription API',
-    category: 'Backend API',
-    image: 'images/portfolio/coffee.jpg',
-    modalImg: 'images/portfolio/modals/m-coffee.jpg',
-    description: 'API for managing subscriptions and recurring payments. Built with Node.js, Express, and MongoDB. Includes authentication, payment processing, and subscription lifecycle management.',
-    tags: 'API, Node.js, Express, MongoDB',
-    github: 'https://github.com/ramon-coder/subscription-api'
-  },
-  {
-    id: 3,
-    title: 'APIaaS',
-    category: 'API',
-    image: 'images/portfolio/origami.jpg',
-    modalImg: 'images/portfolio/modals/m-origami.jpg',
-    description: 'Asynchronous Data Automation and Extraction API. Provides endpoints for web scraping, data processing, and automated data collection from various sources.',
-    tags: 'API, Node.js, Web Scraping, Data Processing',
-    github: 'https://github.com/ramon-coder/El-Proyecto-API-de-Automatizaci-n-y-Extracci-n-de-Datos-As-ncrona-APIaaS-'
-  },
-  {
-    id: 4,
-    title: 'Twitter Clone',
-    category: 'Fullstack',
-    image: 'images/portfolio/judah.jpg',
-    modalImg: 'images/portfolio/modals/m-judah.jpg',
-    description: 'A Twitter-like social media application with user authentication, tweet posting, following/unfollowing users, and real-time feeds.',
-    tags: 'React, Node.js, MongoDB, JavaScript',
-    github: 'https://github.com/ramon-coder/Twitter_clone'
-  },
-  {
-    id: 5,
-    title: 'Bot Lunch',
-    category: 'Automation',
-    image: 'images/portfolio/retrocam.jpg',
-    modalImg: 'images/portfolio/modals/m-retrocam.jpg',
-    description: 'Automated lunch ordering bot that helps users order meals efficiently. Built with automation scripts and scheduling capabilities.',
-    tags: 'Bot, Automation, JavaScript',
-    github: 'https://github.com/ramon-coder/bot_lunch'
-  },
-  {
-    id: 6,
     title: 'Simple Calculator',
     category: 'Frontend',
     image: 'images/portfolio/calculadora.png',
@@ -60,6 +10,56 @@ const projects = [
     description: 'A simple calculator application built with HTML, CSS, and JavaScript. Performs basic arithmetic operations with a clean interface.',
     tags: 'HTML, CSS, JavaScript',
     github: 'https://aniek-dev.github.io/Calculadora-Sencilla/'
+  },
+  {
+    id: 2,
+    title: 'Task Manager CLI',
+    category: 'Coming Soon',
+    image: 'images/portfolio/bot-lunch.png',
+    modalImg: 'images/portfolio/modals/m-console.jpg',
+    description: 'A command-line task manager built with Node.js and Commander.js.',
+    tags: 'CLI, Node.js, JavaScript',
+    github: '#'
+  },
+  {
+    id: 3,
+    title: 'Subscription API',
+    category: 'Coming Soon',
+    image: 'images/portfolio/bot-lunch.png',
+    modalImg: 'images/portfolio/modals/m-coffee.jpg',
+    description: 'API for managing subscriptions and recurring payments.',
+    tags: 'API, Node.js, Express, MongoDB',
+    github: '#'
+  },
+  {
+    id: 4,
+    title: 'APIaaS',
+    category: 'Coming Soon',
+    image: 'images/portfolio/bot-lunch.png',
+    modalImg: 'images/portfolio/modals/m-origami.jpg',
+    description: 'Asynchronous Data Automation and Extraction API.',
+    tags: 'API, Node.js, Web Scraping',
+    github: '#'
+  },
+  {
+    id: 5,
+    title: 'Twitter Clone',
+    category: 'Coming Soon',
+    image: 'images/portfolio/bot-lunch.png',
+    modalImg: 'images/portfolio/modals/m-judah.jpg',
+    description: 'A Twitter-like social media application.',
+    tags: 'React, Node.js, MongoDB',
+    github: '#'
+  },
+  {
+    id: 6,
+    title: 'Bot Lunch',
+    category: 'Coming Soon',
+    image: 'images/portfolio/bot-lunch.png',
+    modalImg: 'images/portfolio/modals/m-retrocam.jpg',
+    description: 'Automated lunch ordering bot.',
+    tags: 'Bot, Automation, JavaScript',
+    github: '#'
   }
 ]
 
